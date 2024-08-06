@@ -1,4 +1,5 @@
 **Women Cloth Reviews Prediction with Multi Nomial Naive Bayes**
+
 Naive Bayes is a probabilistic algorithm family based on Bayes’ Theorem. It’s “naive” because it presupposes feature independence, which means that the presence of one feature does not affect the presence of another (which may not be true in practice).
 Multinomial Naive Bayes is a probabilistic classifier to calculate the probability distribution of text data, which makes it well-suited for data with features that represent discrete frequencies or counts of events in various natural language processing (NLP) tasks.
 Multinomial Distribution The term “multinomial” refers to the type of data distribution assumed by the model. The features in text classification are typically word counts or term frequencies. The multinomial distribution is used to estimate the likelihood of seeing a specific set of word counts in a document.

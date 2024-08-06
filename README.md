@@ -1,4 +1,4 @@
-**Women Cloth Reviews Prediction with Multi Nomial Naive Bayes**
+****Women Cloth Reviews Prediction with Multi Nomial Naive Bayes****
 
 Naive Bayes is a probabilistic algorithm family based on Bayes’ Theorem. It’s “naive” because it presupposes feature independence, which means that the presence of one feature does not affect the presence of another (which may not be true in practice).
 Multinomial Naive Bayes is a probabilistic classifier to calculate the probability distribution of text data, which makes it well-suited for data with features that represent discrete frequencies or counts of events in various natural language processing (NLP) tasks.
